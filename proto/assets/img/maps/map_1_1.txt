@@ -1,0 +1,8 @@
+<img data-passage="map_1_1" alt="" usemap="#Map" />
+<map name="Map" id="Map">
+    <area alt="" title="Bailey" data-passage="#" shape="poly" coords="105,92,105,121,135,121,134,94" />
+    <area alt="" title="Elesun's Quarters" data-passage="#" shape="poly" coords="72,180,95,180,96,202,72,203" />
+    <area alt="" title="Main Hall" data-passage="#" shape="poly" coords="132,237,159,237,158,259,133,259" />
+    <area alt="" title="Servant's Quarters" data-passage="#" shape="poly" coords="207,175,226,175,226,194,204,194" />
+    <area alt="" title="Elesun's Quarters" data-passage="#" shape="poly" coords="207,76,226,77,224,94,205,95" />
+</map>
